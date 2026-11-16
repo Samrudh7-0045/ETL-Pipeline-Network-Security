@@ -2,3 +2,7 @@ python-dotenv
 pandas
 numpy
 pymongo
+certifi
+scikit_learn
+dill
+pyaml 
